@@ -1,5 +1,6 @@
-# tree-view-copy-relative-path package
+tree-view-copy-project-path package
+===================================
 
-Allows you to copy relative path to file from tree view.
+Allows you to copy project path to file from tree view.
 
-![Demo gif](https://cloud.githubusercontent.com/assets/4998556/12075222/85e019da-b18a-11e5-8cd6-6d007435734e.gif)
+Based on https://github.com/vladimir-tikhonov/tree-view-copy-relative-path

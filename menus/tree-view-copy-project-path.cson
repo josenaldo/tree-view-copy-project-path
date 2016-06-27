@@ -1,0 +1,7 @@
+'context-menu':
+  '.tree-view .file': [
+    {
+      'label': 'Copy File Project Path'
+      'command': 'tree-view-copy-project-path:copy-project-path'
+    }
+  ]
