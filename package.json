@@ -1,25 +1,25 @@
 {
-    "name": "tree-view-copy-project-path",
-    "main": "./lib/tree-view-copy-project-path",
-    "version": "1.0.0",
-    "description": "Allows you to copy project path to current file from tree view, with forward slashes. even in Windows.",
-    "keywords": [
-        "tree-view",
-        "project path",
-        "forward slash"
-    ],
-    "activationCommands": {
-        "atom-workspace": "tree-view-copy-project-path:copy-project-path"
-    },
-    "repository": "https://github.com/josenaldo/tree-view-copy-project-path.git",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {
-        "relative": "^3.0.2"
-    },
-    "devDependencies": {
-        "coffeelint": "^1.14.2"
-    }
+  "name": "tree-view-copy-project-path",
+  "main": "./lib/tree-view-copy-project-path",
+  "version": "1.0.1",
+  "description": "Allows you to copy project path to current file from tree view, with forward slashes. even in Windows.",
+  "keywords": [
+    "tree-view",
+    "project path",
+    "forward slash"
+  ],
+  "activationCommands": {
+    "atom-workspace": "tree-view-copy-project-path:copy-project-path"
+  },
+  "repository": "https://github.com/josenaldo/tree-view-copy-project-path.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "relative": "^3.0.2"
+  },
+  "devDependencies": {
+    "coffeelint": "^1.14.2"
+  }
 }
